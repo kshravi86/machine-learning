@@ -16,7 +16,7 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 		android:anyDensity="true"
 		/>
 	</edit-config>
-    <name>Machine Learning</name>
+    <name>Machine Learning in Python</name>
     
     <description>TestApp for AdMob</description>
     <author email="ingalbi@gmail.com" href="http://ingalb.info/">ingalb</author>
